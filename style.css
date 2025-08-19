@@ -170,6 +170,7 @@ a:hover{
 .content .btn button:nth-child(1){
     margin-right: 15px;
     border: none;
+    cursor: pointer;
     border: 2px solid #f0ebeb;
 }
 
