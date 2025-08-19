@@ -164,11 +164,12 @@ a:hover{
     border: none;
     cursor: pointer;
     font-size: 16px;
-    border: 2px solid #530404;
+    border: 2px solid #f0ebeb;
 }
 
 .content .btn button:nth-child(1){
     margin-right: 15px;
+    border: 2px solid #f0ebeb;
 }
 
 .content .btn button:nth-child(2){
