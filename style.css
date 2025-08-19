@@ -66,7 +66,7 @@ a:hover{
     background-position: 50% 50%;
     background-size: cover;
     z-index: 100;
-    transition: 10s;
+    transition: 7s;
 }
 
 .carousel .list .item:nth-child(1),
